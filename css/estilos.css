@@ -1,0 +1,26 @@
+body{background-color: #FFF;
+		font-family: sans-serif;
+		text-align: center;
+		background-image: url(EDIT1010301.jpg);
+	}
+#menu li{
+	float: left;
+	width: 200px;
+	color: white;
+	background-color: orange;	
+	padding: 20px; 
+	}
+a {display: block;
+	color: orange;
+}
+.panel-heading {
+	padding: 10px 20px;
+	border-bottom: 1px solid transparent;
+	list-style-type: none;
+}
+.panel-title {
+	color: #FFFFFF;
+	font-size: 16px;
+}
+
+
